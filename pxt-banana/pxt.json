@@ -1,0 +1,11 @@
+{
+    "name": "tropic",
+    "description": "A tropical fruit paradise.",
+    "icon": "./static/libs/tropic.png",
+    "files": [
+        "tropic.ts"
+    ],
+    "dependencies": {
+        "core": "file:../core"
+    }
+}
